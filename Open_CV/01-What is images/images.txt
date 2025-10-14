@@ -1,0 +1,8 @@
+1- What is images?
+    - Images are numpy arrays.
+    - An image shape is height, weidth and number of channel
+    - An image is made by pixel.
+
+    - In most cases pixel value range from 0 to 255
+    - In binary images pixel value is in [0,1](or [0,255])
+    - In 16 bits(normally its 8 bits->1 bytes) images pixel value range from 0 to 65535.
